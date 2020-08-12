@@ -8,7 +8,7 @@
 
 ## Personal goals:
 - :hammer_and_wrench: Become a high level fullstack JavaScript developer;
-- :computer: Investing even more in my work tools and personal studies;
+- :computer: Invest even more in my work tools and personal studies;
 - :coffee: Work as a team on a professional or/and personal project.
 
 
