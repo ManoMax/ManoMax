@@ -1,26 +1,23 @@
-# Hello World 👋
+<img align="left" height="226" src="https://i.imgur.com/kPL8l84.gif"/>
 
-## Who I am ?
-- :man_technologist: I'm a computer scientist focused on improve my fullstack skills and external api (like Discord).
+```diff
+Hello World 👋
 
-## What am I working on now?
-- :atom_symbol: I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs.
+@@ I'm Gabriel Max @@
++ 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
+- 👦🏽 22 years old
+! 💻 I'm a computer scientist focused on improve my fullstack skills and external api (like Discord).
+# 🎮 Technology lover and developer of a gamer community.
+```
 
-## Personal goals:
-- :hammer_and_wrench: Become a high level fullstack JavaScript developer;
-- :computer: Invest even more in my work tools and personal studies;
-- :coffee: Work as a team on a professional or/and personal project.
+<code><a href="https://www.instagram.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://i.imgur.com/r8Kc9zz.png"></a> 
+  <a href="https://twitter.com/gmaxinho" target="_blank"><img height="30" src="https://i.imgur.com/nw4aHCI.png"></a>
+  <a href="https://www.linkedin.com/in/manomax/" target="_blank"><img height="30" src="https://i.imgur.com/tEV2Jk7.png"></a>
+  <a href="https://www.twitch.tv/maninhomax" target="_blank"><img height="30" src="https://i.imgur.com/vTn1mq6.png"></a>
+  <a href="https://discord.gg/ASwuvJr" target="_blank"><img height="30" src="https://i.imgur.com/a5dSRnN.png"></a>
+</code>
 
-
-## Goals for this year:
-- :memo: Create and post more projects;
-- :busts_in_silhouette: Work together on projects to gain new experiences and challenge my skills as a developer.
-
-
-## 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Mano%20Max-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manomax/)](https://www.linkedin.com/in/manomax/) 
-| [![Gmail Badge](https://img.shields.io/badge/-gabrielmaxcontato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmaxcontato@gmail.com)](mailto:gabrielmaxcontato@gmail.com)
-
+<!-- README.md Profile Model by: @anabastos -->
 
 <!--
 **ManoMax/ManoMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
