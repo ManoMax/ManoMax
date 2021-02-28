@@ -7,7 +7,7 @@ Hello World 👋
 + 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
 - 👦🏽 22 years old.
 ! 💻 I'm a computer scientist focused on improve my fullstack skills and external api (like Discord).
-# 🎮 Technology lover and developer of a gamer community.
+# 🎮 Technology lover, streamer and developer of a gamer community.
 ```
 
 <code><a href="https://www.instagram.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://i.imgur.com/r8Kc9zz.png"></a> 
