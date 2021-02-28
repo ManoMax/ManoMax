@@ -5,7 +5,7 @@ Hello World 👋
 
 @@ I'm Gabriel Max @@
 + 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
-- 👦🏽 22 years old
+- 👦🏽 22 years old.
 ! 💻 I'm a computer scientist focused on improve my fullstack skills and external api (like Discord).
 # 🎮 Technology lover and developer of a gamer community.
 ```
