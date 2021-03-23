@@ -15,6 +15,7 @@ Hello World 👋
   <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://imgur.com/O47A9i6.png"></a>
   <a href="https://www.linkedin.com/in/manomax/" target="_blank"><img height="30" src="https://i.imgur.com/tEV2Jk7.png"></a>
   <a href="https://www.twitch.tv/maninhomax" target="_blank"><img height="30" src="https://i.imgur.com/vTn1mq6.png"></a>
+  <a href="https://www.youtube.com/manomax" target="_blank"><img height="30" src="https://imgur.com/xdzSpHg.png"></a>
   <a href="https://discord.gg/ASwuvJr" target="_blank"><img height="30" src="https://i.imgur.com/a5dSRnN.png"></a>
   <a href="https://linktr.ee/MelhorDeTres" target="_blank"><img height="30" src="https://imgur.com/OHjHoyn.png"></a>
 </code>
