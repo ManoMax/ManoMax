@@ -10,7 +10,7 @@ Hello World 👋
 # 🎮 Technology lover, streamer and developer of a gamer community.
 ```
 
-<code><a href="https://www.instagram.com/manomax.live/" target="_blank"><img height="30" src="https://i.imgur.com/r8Kc9zz.png"></a> 
+<code><a href="https://www.instagram.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://i.imgur.com/r8Kc9zz.png"></a> 
   <a href="https://twitter.com/maninho_max" target="_blank"><img height="30" src="https://i.imgur.com/nw4aHCI.png"></a>
   <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://imgur.com/O47A9i6.png"></a>
   <a href="https://www.linkedin.com/in/manomax/" target="_blank"><img height="30" src="https://i.imgur.com/tEV2Jk7.png"></a>
