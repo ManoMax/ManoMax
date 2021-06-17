@@ -3,23 +3,34 @@
 <img align="right" height="226" src="https://i.imgur.com/kPL8l84.gif"/>
 
 ```diff
-👋🏾 About me:
-
 @@ I'm Gabriel Max @@
+
 + 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
 - 👦🏽 23 years old.
 ! 💻 I'm a computer scientist with a taste for new challenges and
 !     focused on improve my fullstack skills.
 # 🎮 Technology lover, streamer and developer of a gamer community.
+
+# 📞 For contact me, click below:
 ```
 
-<code><a href="https://www.instagram.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://i.imgur.com/r8Kc9zz.png"></a> 
-  <a href="https://twitter.com/maninho_max" target="_blank"><img height="30" src="https://i.imgur.com/nw4aHCI.png"></a>
-  <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img height="30" src="https://imgur.com/O47A9i6.png"></a>
-  <a href="https://www.linkedin.com/in/manomax/" target="_blank"><img height="30" src="https://i.imgur.com/tEV2Jk7.png"></a>
-  <a href="https://www.youtube.com/manomax" target="_blank"><img height="30" src="https://imgur.com/xdzSpHg.png"></a>
-  <a href="https://www.twitch.tv/maninhomax" target="_blank"><img height="30" src="https://i.imgur.com/vTn1mq6.png"></a>
-  <a href="https://discord.gg/ASwuvJr" target="_blank"><img height="30" src="https://i.imgur.com/a5dSRnN.png"></a>
+<code>
+  <a href="https://www.instagram.com/gabrielmax.vm/" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://twitter.com/maninho_max" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manomax/" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/manomax" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.twitch.tv/maninhomax" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/Twitch-100000?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://discord.gg/ASwuvJr" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:gabriel.matos@ccc.ufcg.edu.br" target="_blank"><img height="19"
+    src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </code>
 
 ---
