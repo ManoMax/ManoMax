@@ -1,40 +1,54 @@
-<h2>👋🏾 Hello World</h2>
+## 👋🏾 Hello World, I'm Gabriel "Mano" Max.
+ <div>
+  <a href="https://github.com/ManoMax">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoMax&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="ManoMax-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ManoMax-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="ManoMax-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ManoMax-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ManoMax-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="ManoMax-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="ManoMax-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+</div>
+  
+___
+  
 
-<img align="right" height="226" src="https://i.imgur.com/kPL8l84.gif"/>
+<img align="right" height="200" src="https://i.imgur.com/kPL8l84.gif"/>
 
 ```diff
 @@ I'm Gabriel Max @@
 
 + 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
-- 👦🏽 23 years old.
-! 💻 I'm a computer scientist with a taste for new challenges and
-!     focused on improve my fullstack skills.
+! 👦🏽 23 years old.
+# 💻 I'm a computer scientist with a taste for new challenges and
+#     focused on improve my fullstack skills.
 # 🎮 Technology lover, streamer and developer of a gamer community.
 
-# 📞 For contact me, click below:
+- 📞 For contact me, click below:
 ```
 
-<code>
-  <a href="https://www.instagram.com/gabrielmax.vm/" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://twitter.com/maninho_max" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manomax/" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/manomax" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.twitch.tv/maninhomax" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/Twitch-100000?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://discord.gg/ASwuvJr" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:gabriel.matos@ccc.ufcg.edu.br" target="_blank"><img height="19"
-    src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</code>
+<div> 
+  <a href="https://www.youtube.com/ManoMax" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabrielmax.vm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ManinhoMax" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ASwuvJr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabrielmaxcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ManoMax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+##
 
----
-
+<div align="right">
+  <p><i>
+    Author: <a href="https://github.com/ManoMax">@ManoMax</a> 💜
+  </i></p>
+</div>
+  
+<!--
 <div>
   <h3>💻 Abilities:</h3>
   <div>
@@ -63,13 +77,7 @@
   </div>
 </div>
 
- ---
-
-<div align="right">
-  <p><i>
-    Author: <a href="https://github.com/ManoMax">@ManoMax</a> 💜
-  </i></p>
-</div>
+-->
 
 <!-- ![ManoMax GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight) -->
 <!-- <a href="https://linktr.ee/MelhorDeTres" target="_blank"><img height="30" src="https://imgur.com/OHjHoyn.png"></a> -->
