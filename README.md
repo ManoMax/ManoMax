@@ -1,6 +1,6 @@
 ## 👋🏾 Hello World, I'm Gabriel "Mano" Max.
 
-<img align="right" height="200" src="https://i.imgur.com/kPL8l84.gif"/>
+<img href="https://www.linkedin.com/in/manomax/" align="right" height="200" src="https://i.imgur.com/kPL8l84.gif"/>
 
 ```diff
 @@ I'm Gabriel Max @@
@@ -23,12 +23,12 @@
 
 ___
 
- <div>
+<div>
   <a href="https://github.com/ManoMax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoMax&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+
 ##
 
 <div align="right">
