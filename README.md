@@ -1,9 +1,45 @@
 ## 👋🏾 Hello World, I'm Gabriel "Mano" Max.
+
+<img align="right" height="200" src="https://i.imgur.com/kPL8l84.gif"/>
+
+```diff
+@@ I'm Gabriel Max @@
++ 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
+
+! 🎓 Main LP's:
+!    - JavaScript, Python, Java;
+
+! 🎓 Framework e DataBases:
+!    - HTML, CSS, React, React Native,
+!    - PL/SQL, MongoDB, Spring Boot;
+
+# 🎮 Technology lover, streamer and developer of a gamer community.
+  💻 Graduating in Computer Science at the Federal University of Campina Grande
+
+- 📞 For contact me:
+- E-mail: gabrielmaxcontato@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manomax/
+```
+
+___
+
  <div>
   <a href="https://github.com/ManoMax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoMax&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+##
+
+<div align="right">
+  <p><i>
+    Author: <a href="https://www.linkedin.com/in/manomax/">@ManoMax</a> 💜
+  </i></p>
+</div>
+  
+<!--
+                     RASCUNHOS:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ManoMax-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ManoMax-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -13,23 +49,6 @@
   <img align="center" alt="ManoMax-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="ManoMax-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
-  
-___
-  
-
-<img align="right" height="200" src="https://i.imgur.com/kPL8l84.gif"/>
-
-```diff
-@@ I'm Gabriel Max @@
-
-+ 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
-! 👦🏽 23 years old.
-# 💻 I'm a computer scientist with a taste for new challenges and
-#     focused on improve my fullstack skills.
-# 🎮 Technology lover, streamer and developer of a gamer community.
-
-- 📞 For contact me, click below:
-```
 
 <div> 
   <a href="https://www.youtube.com/ManoMax" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -41,16 +60,7 @@ ___
  <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/maninho_max" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
-  
-##
 
-<div align="right">
-  <p><i>
-    Author: <a href="https://github.com/ManoMax">@ManoMax</a> 💜
-  </i></p>
-</div>
-  
-<!--
 <div>
   <h3>💻 Abilities:</h3>
   <div>
