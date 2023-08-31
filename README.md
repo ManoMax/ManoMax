@@ -10,10 +10,10 @@
 !    - JavaScript, Python, Java;
 
 ! 🎓 Framework e DataBases:
-!    - HTML, CSS, React, React Native,
+!    - React, React Native, Angular
 !    - PL/SQL, MongoDB, Spring Boot;
 
-# 🎮 Technology lover, streamer and developer of a gamer community.
+# 🎮 Technology lover, developer, gamer and healthy living practitioner.
   💻 Graduating in Computer Science at the Federal University of Campina Grande
 
 - 📞 For contact me:
