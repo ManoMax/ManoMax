@@ -14,7 +14,7 @@
 !    - PL/SQL, MongoDB, Spring Boot;
 
 # 🎮 Technology lover, developer, gamer and healthy living practitioner.
-  💻 Graduating in Computer Science at the Federal University of Campina Grande
+  💻 Graduating in Computer Science at the UFCG
 
 - 📞 For contact me:
 - E-mail: gabrielmaxcontato@gmail.com
