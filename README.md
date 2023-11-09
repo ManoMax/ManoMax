@@ -3,9 +3,9 @@
    <h2 style="margin: 0px 0px 0px 25px;">I'm Gabriel <t style="color: green">"Mano"</t> Max.</h2>
 </div>
 
-<div style="display: flex;" >
-   <div class="preformatted">
-      <pre>
+<img align="right" href="https://www.linkedin.com/in/manomax/" height="366" width="34%" src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp"/>
+<div>
+<pre>
 <span >📌 Living in <t style="color: green">Campina Grande - PB, Brazil</t> 🇧🇷.</span>
 <span></span>
 <span style="color: yellow">🎓 Main LP's:</span>
@@ -23,20 +23,17 @@
 <span style="color: white">📞 For contact me:</span>
 <span><t style="color: tomato">E-mail</t>: gabrielmaxcontato@gmail.com</span>
 <span><t style="color: tomato">LinkedIn</t>: <a href="https://www.linkedin.com/in/manomax/">linkedin.com/in/ManoMax/</a></span>
-   </div>
-
-   <div>
-      <img href="https://www.linkedin.com/in/manomax/" height="449" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtvazBnYWJyb2c4Nmo4NjR3dnk1bnp6MnljZjByeTFkN2hlbmdqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
-   </div>
 
 </div>
 
 ___
 
-<div>
+<div 
+style="display: flex;"
+>
   <a href="https://github.com/ManoMax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoMax&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoMax&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ___
@@ -44,8 +41,8 @@ ___
 <div>
    <h3 align="center" style="margin-bottom: 35px;">Main Project</h3>
 
-   <div>
-      <table style="padding: 0 10%">
+   <div align="center">
+      <table>
          <tr>
             <td align="center" width="250px" height="140px">
                <img src="https://marcai.netlify.app/assets/setup/marcai-logo.svg" alt="Marcaí Image" width="50"></img>
@@ -61,7 +58,7 @@ ___
                </br>
                <span>Rocket Seat</span>
             </td><td align="center" width="250px" height="140px">
-               <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5143067-bonito-soldado-exercito-vetor.jpg" alt="Bot Discord Sra. Lia Image" width="50"></img>
+               <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZtqwTBvzpePhcrI7zRxOcDZPuWiX40Y37v07aJlvEcoLgTAB9" alt="Bot Discord Sra. Lia Image" width="50"></img>
                </br>
                <a href="https://github.com/ManoMax/sra-lia">Bot Sra. Lia</a>
                </br>
@@ -83,7 +80,7 @@ ___
                <span>CodeX Jr. (TCC)</span>
             </td>
             <td align="center" width="250px" height="140px">
-               <img src="https://i.gifer.com/ZKZg.gif" alt="Loading gif" width="50"></img>
+               <img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif" alt="Loading gif" width="50"></img>
                </br>
                <a href="https://projexa.vercel.app/entrar">Next Project?</a>
                </br>
