@@ -3,7 +3,7 @@
    <h2 style="margin: 0px 0px 0px 25px;">I'm Gabriel <t style="color: green">"Mano"</t> Max.</h2>
 </div>
 
-<img align="right" href="https://www.linkedin.com/in/manomax/" height="366" width="34%" src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp"/>
+<img align="right" href="https://www.linkedin.com/in/manomax/" height="322px" width="34%" src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp"/>
 <div>
 <pre>
 <span >📌 Living in <t style="color: green">Campina Grande - PB, Brazil</t> 🇧🇷.</span>
@@ -23,7 +23,6 @@
 <span style="color: white">📞 For contact me:</span>
 <span><t style="color: tomato">E-mail</t>: gabrielmaxcontato@gmail.com</span>
 <span><t style="color: tomato">LinkedIn</t>: <a href="https://www.linkedin.com/in/manomax/">linkedin.com/in/ManoMax/</a></span>
-
 </div>
 
 ___
