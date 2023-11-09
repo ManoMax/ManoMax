@@ -74,14 +74,14 @@ ___
             <td align="center" width="250px" height="140px">
                <img src="https://raw.githubusercontent.com/codexjr-dev/projexa-web/main/public/dashboard.png" alt="Projexa Image" width="50"></img>
                </br>
-               <a href="https://projexa.vercel.app/entrar">Projexa</a>
+               <a href="https://github.com/codexjr-dev/projexa-api/tree/main">Projexa</a>
                </br>
                <span>CodeX Jr. (TCC)</span>
             </td>
             <td align="center" width="250px" height="140px">
                <img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif" alt="Loading gif" width="50"></img>
                </br>
-               <a href="https://projexa.vercel.app/entrar">Next Project?</a>
+               <a href="https://www.linkedin.com/in/manomax/">Next Project?</a>
                </br>
                <span>Loading...</span>
             </td>
