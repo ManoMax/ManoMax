@@ -1,25 +1,35 @@
-## 👋🏾 Hello World, I'm Gabriel "Mano" Max.
+<div>
+   <h5 style="margin: 0;">👋🏾 Hello World,</h5>
+   <h2 style="margin: 0px 0px 0px 25px;">I'm Gabriel <t style="color: green">"Mano"</t> Max.</h2>
+</div>
 
-<img href="https://www.linkedin.com/in/manomax/" align="right" height="200" src="https://i.imgur.com/kPL8l84.gif"/>
+<div style="display: flex;" >
+   <div class="preformatted">
+      <pre>
+<span >📌 Living in <t style="color: green">Campina Grande - PB, Brazil</t> 🇧🇷.</span>
+<span></span>
+<span style="color: yellow">🎓 Main LP's:</span>
+<span>   - JavaScript, Python, Java;</span>
+<span style="color: yellow">🎓 Framework e DataBases:</span>
+<span>   - React, Angular, Vue,</span>
+<span>   - PL/SQL, MongoDB,</span>
+<span>   - NodeJS, Spring Boot;</span>
+<span></span>
+<span>💻 Graduating in <t style="color: aqua">Computer Science at the UFCG </t></span>
+<span></span>
+<span>🎮 Technology lover, developer, gamer and</span>
+<span>   healthy living practitioner. 💪🏽</span>
+<span></span>
+<span style="color: white">📞 For contact me:</span>
+<span><t style="color: tomato">E-mail</t>: gabrielmaxcontato@gmail.com</span>
+<span><t style="color: tomato">LinkedIn</t>: <a href="https://www.linkedin.com/in/manomax/">linkedin.com/in/ManoMax/</a></span>
+   </div>
 
-```diff
-@@ I'm Gabriel Max @@
-+ 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
+   <div>
+      <img href="https://www.linkedin.com/in/manomax/" height="449" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtvazBnYWJyb2c4Nmo4NjR3dnk1bnp6MnljZjByeTFkN2hlbmdqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+   </div>
 
-! 🎓 Main LP's:
-!    - JavaScript, Python, Java;
-
-! 🎓 Framework e DataBases:
-!    - React, React Native, Angular
-!    - PL/SQL, MongoDB, Spring Boot;
-
-# 🎮 Technology lover, developer, gamer and healthy living practitioner.
-  💻 Graduating in Computer Science at the UFCG
-
-- 📞 For contact me:
-- E-mail: gabrielmaxcontato@gmail.com
-- LinkedIn: https://www.linkedin.com/in/manomax/
-```
+</div>
 
 ___
 
@@ -29,7 +39,62 @@ ___
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoMax&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
+___
+
+<div>
+   <h3 align="center" style="margin-bottom: 35px;">Main Project</h3>
+
+   <div>
+      <table style="padding: 0 10%">
+         <tr>
+            <td align="center" width="250px" height="140px">
+               <img src="https://marcai.netlify.app/assets/setup/marcai-logo.svg" alt="Marcaí Image" width="50"></img>
+               </br>
+               <a href="https://marcai.netlify.app/">Marcaí</a>
+               </br>
+               <span>UFCG</span>
+            </td>
+            <td align="center" width="250px" height="140px">
+               <img src="https://images.emojiterra.com/google/android-12l/512px/1f680.png" alt="Rocket Image" width="50"></img>
+               </br>
+               <a href="https://github.com/ManoMax/dev-radar">Dev Radar</a>
+               </br>
+               <span>Rocket Seat</span>
+            </td><td align="center" width="250px" height="140px">
+               <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5143067-bonito-soldado-exercito-vetor.jpg" alt="Bot Discord Sra. Lia Image" width="50"></img>
+               </br>
+               <a href="https://github.com/ManoMax/sra-lia">Bot Sra. Lia</a>
+               </br>
+               <span>Projeto Pessoal</span>
+         </tr>
+         <tr>
+            <td align="center" width="250px" height="140px">
+               <img src="https://i.imgur.com/9a8oA0e.png" alt="AJuDE Image" width="50"></img>
+               </br>
+               <a href="https://youtu.be/Gicpcce1_bI?si=KjjYcXtveod9RYTn">AJuDE</a>
+               </br>
+               <span>UFCG</span>
+            </td>
+            <td align="center" width="250px" height="140px">
+               <img src="https://raw.githubusercontent.com/codexjr-dev/projexa-web/main/public/dashboard.png" alt="Projexa Image" width="50"></img>
+               </br>
+               <a href="https://projexa.vercel.app/entrar">Projexa</a>
+               </br>
+               <span>CodeX Jr. (TCC)</span>
+            </td>
+            <td align="center" width="250px" height="140px">
+               <img src="https://i.gifer.com/ZKZg.gif" alt="Loading gif" width="50"></img>
+               </br>
+               <a href="https://projexa.vercel.app/entrar">Next Project?</a>
+               </br>
+               <span>Loading...</span>
+            </td>
+         </tr>
+      </table>
+   </div>
+</div>
+
+<h2></h2>
 
 <div align="right">
   <p><i>
@@ -53,59 +118,30 @@ ___
 <div> 
   <a href="https://www.youtube.com/ManoMax" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabrielmax.vm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ManinhoMax" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/ASwuvJr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielmaxcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ManoMax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.facebook.com/gabrielmax.vm/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/maninho_max" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
 
-<div>
-  <h3>💻 Abilities:</h3>
-  <div>
-    <img height="22" src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-Java-brown?logo=java&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-JavaScript-orange?logo=javascript&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-PL%20/SQL-purple?logo=mysql&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square"/>
-  </div>
-
-  <h3>🔨 Tools:</h3>
-  <div>
-    <img height="22" src="https://img.shields.io/badge/-GitHub-100000?logo=github&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-VSCode-0078D4?logo=visual%20studio%20code&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-Insomnia-5849be?logo=Insomnia&logoColor=white&style=flat-square"/>
-  </div>
-
-  <h3>📚 Studying:</h3>
-  <div>
-    <img height="22" src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-HTML-239120?logo=html5&logoColor=white&style=flat-square"/>
-    <img height="22" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  </div>
-</div>
-
--->
-
-<!-- ![ManoMax GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoMax&show_icons=true&theme=tokyonight) -->
-<!-- <a href="https://linktr.ee/MelhorDeTres" target="_blank"><img height="30" src="https://imgur.com/OHjHoyn.png"></a> -->
+<!-- <img href="https://www.linkedin.com/in/manomax/" height="200" width="266" src="https://i.imgur.com/kPL8l84.gif"/>
+      <img href="https://www.linkedin.com/in/manomax/" height="242" width="266" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2duMXdxaW53ODJuMWdtOTl4aWl5ZDd1cWpjZnA1YnBjeHZ1YXY2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"/> -->
 
 <!--
-**ManoMax/ManoMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ```diff
+   @@ I'm Gabriel Max @@
+   + 📌 Living in Campina Grande - PB, Brazil 🇧🇷.
 
-Here are some ideas to get you started:
+   ! 🎓 Main LP's:
+   !    - JavaScript, Python, Java;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   ! 🎓 Framework e DataBases:
+   !    - React, Angular, Vue,
+   !    - PL/SQL, MongoDB,
+   !    - NodeJS, Spring Boot;
 
+   💻 Graduating in Computer Science at the UFCG
+
+   # 🎮 Technology lover, developer, gamer and
+   #    healthy living practitioner.
+
+   - 📞 For contact me:
+   - E-mail: gabrielmaxcontato@gmail.com
+   - LinkedIn: https://www.linkedin.com/in/manomax/
+   ```
 -->
